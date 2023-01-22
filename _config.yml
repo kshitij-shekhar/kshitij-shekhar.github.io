@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title : "About me", icon : address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "kshitij.s@ahduni.edu.in"}
+  - {title: Mail, icon: envelope, url: "mailto:kshitij.s@ahduni.edu.in"}
   - {title: Github, icon: github, url: "https://github.com/kshitij-shekhar"}
   
 
